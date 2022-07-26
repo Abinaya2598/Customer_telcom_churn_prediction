@@ -16,19 +16,20 @@ Telecom Retention->To address customer churn
     2)conditional churner
     3)Lifestyle migrator
     4)unsatisfied
+# ![Telecom_Customer_Churn_Prediction_Models](https://user-images.githubusercontent.com/88984371/181053580-7b261d23-61bc-451c-84a3-a2e7a19a5819.jpg)
 # Loyalty divers:
-1)Factors that influence churn:
+# 1)Factors that influence churn:
     High cost of service compare with other service providers
     Quality of network/signal
     customer care responses
     Handset loss
-2)To gain customer Loyalty:
+# 2)To gain customer Loyalty:
     Atrractive offers
     Low price
     Length of contract Period
     Quality of customer care,network
     Perception of telecom brand
-Our project enables:
+# Our project enables:
     1)Insights on subscribers churn behaviour
     2)Enables reduction in marketing spend 
     3)churn predictive models
