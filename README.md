@@ -30,5 +30,5 @@ Telecom Retention->To address customer churn
     Perception of telecom brand
 Our project enables:
     1)Insights on subscribers churn behaviour
-    2)Enables reduction in marketing spend
+    2)Enables reduction in marketing spend 
     3)churn predictive models
